@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+
+* {
+	font-family: Helvetica, Arial, sans-serif;
+}
+.loading
+{
+	display: none;	
+	background-color: #FFFFFF;
+	position: fixed;
+	left: 0;
+	top: 0;	
+}
+.loading-img
+{
+	position: absolute;
+	display: block;
+}
+.loading-text
+{
+	text-align: center;
+}
+
